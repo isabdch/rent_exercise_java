@@ -22,7 +22,7 @@ public class Main {
 			}
 		} while (n < 1 || n > 10);
 
-		RentRecord arr[] = new RentRecord[9];
+		RentRecord arr[] = new RentRecord[10];
 
 		for (int i = 0; i < n; i++) {
 			System.out.println("\nRent #" + (i + 1));
