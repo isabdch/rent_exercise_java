@@ -25,7 +25,7 @@ public class Main {
 		RentRecord arr[] = new RentRecord[10];
 
 		for (int i = 0; i < n; i++) {
-			System.out.println("\nRent #" + (i + 1));
+			System.out.println("\nRent #" + (i + 1) + ":");
 
 			System.out.print("Name: ");
 			sc.nextLine();
